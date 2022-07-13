@@ -1,7 +1,7 @@
 # Bus-Vulnerabilities
 
 # Author:
-Javier Carabantes:  [@javicarabantes](hthttps://twitter.com/javicarabantes).
+Javier Carabantes:  [@javicarabantes](https://twitter.com/javicarabantes).
 
 ## Short description
 Multiple SQL injections detected in Bus Pass Management System Project v1.0
